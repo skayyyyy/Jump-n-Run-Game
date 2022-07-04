@@ -2,6 +2,11 @@ import pygame
 
 #Allgemein---------------------------------------------------------------------------
 
+
+#MIT License
+#Sophie Kroder
+#04.07.2022
+
 #Fenstergrößen
 WIDTH = 800
 HEIGHT = 600
